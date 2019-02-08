@@ -6,4 +6,4 @@ editors.jsx =》 React+BraftEditor编辑器
 
 for_hearder.py =》 Python+Baidu语音STT部分
 
-list.cpp list.h =》 C++对数据进行数据结构处理
+list.cpp list.h =》 C++对数据进行数据结构处理（Test版本，非debug或release版本）
